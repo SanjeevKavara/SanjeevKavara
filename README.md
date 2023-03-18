@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://sanjeevkavara.github.io/portfolio.github.io/](https://sanjeevkavara.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [https://sanjeevkavara.onrender.com/](https://sanjeevkavara.onrender.com/)
 
 - 📫 How to reach me **tsanjeevkavara.cs20@bitsathy.ac.in**
 
